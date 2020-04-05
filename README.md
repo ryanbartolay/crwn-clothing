@@ -71,3 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ADD SASS
 
 > yarn add node-sass
+
+adding REDUX
+
+> yarn add redux redux-logger react-redux
